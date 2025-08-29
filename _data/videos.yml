@@ -1,10 +1,10 @@
-- title: YouTube Semantic Search Demo
-  link: https://youtube.com/watch?v=xxxxxx
-  note: 6-minute walkthrough + code tour
+- title: How to Install Tesseract OCR on Windows and use it with Python
+  link: https://youtu.be/GMMZAddRxs8
+  note: Quick walkthrough for setting up Tessaract OCR on Windows
 
-- title: Airflow Pipeline Walkthrough
-  link: https://youtube.com/watch?v=yyyyyy
-  note: From DAG to analytics queries
+- title: Removing Warning from Python 3.12+ for pip installs
+  link: https://youtu.be/g2TDfWDgwkE
+  note: Get rid of rule to not install packages system wide in current versions of Python
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
