@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="{{ '/' | relative_url }}">MS</a>
+        <nav class="nav">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/projects' | relative_url }}">Projects</a>
+          <a href="{{ '/videos' | relative_url }}">Videos</a>
+          <a href="{{ '/articles' | relative_url }}">Articles</a>
+        </nav>
+      </div>
+    </header>
+    <main class="content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <p>© {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
+  </body>
+</html>

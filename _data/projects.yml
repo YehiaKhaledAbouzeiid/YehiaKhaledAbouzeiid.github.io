@@ -1,0 +1,11 @@
+- title: YouTube Semantic Search
+  link: https://github.com/YOUR_GITHUB_USERNAME/youtube-semantic-search
+  description: Semantic search engine with OpenSearch + LLMs.
+
+- title: Airflow → MinIO → ClickHouse Pipeline
+  link: https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline
+  description: Modern ETL pipeline with Airflow, Parquet, and ClickHouse.
+
+- title: Flask Reporting App
+  link: https://github.com/YOUR_GITHUB_USERNAME/flask-reporting-app
+  description: SQL-based reporting system exporting PDF/CSV.
