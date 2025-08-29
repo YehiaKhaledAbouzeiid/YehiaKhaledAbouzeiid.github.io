@@ -1,8 +1,11 @@
 - title: YouTube Semantic Search Demo
   link: https://youtube.com/watch?v=xxxxxx
+  note: 6-minute walkthrough + code tour
 
 - title: Airflow Pipeline Walkthrough
   link: https://youtube.com/watch?v=yyyyyy
+  note: From DAG to analytics queries
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
+  note: Generating PDFs from SQL

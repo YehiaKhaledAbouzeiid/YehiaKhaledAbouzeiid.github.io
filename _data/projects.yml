@@ -1,11 +1,14 @@
 - title: YouTube Semantic Search
   link: https://github.com/YOUR_GITHUB_USERNAME/youtube-semantic-search
-  description: Semantic search engine with OpenSearch + LLMs.
+  description: Ask questions across a YouTube playlist; returns time-coded hits with RAG.
+  stack: OpenSearch · LLM · Streamlit · PostgreSQL · Docker
 
 - title: Airflow → MinIO → ClickHouse Pipeline
   link: https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline
-  description: Modern ETL pipeline with Airflow, Parquet, and ClickHouse.
+  description: Orchestrated ETL: land Parquet to object storage, load into ClickHouse, transform.
+  stack: Airflow · Parquet · MinIO · ClickHouse · dbt
 
 - title: Flask Reporting App
   link: https://github.com/YOUR_GITHUB_USERNAME/flask-reporting-app
-  description: SQL-based reporting system exporting PDF/CSV.
+  description: SQL to HTML → export PDF/CSV; clean separation of report types.
+  stack: Flask · SQLAlchemy · WeasyPrint · SQL Server

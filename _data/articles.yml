@@ -1,8 +1,11 @@
 - title: Building a Semantic Search Engine with OpenSearch and LLMs
   link: https://medium.com/@YOUR_MEDIUM_USERNAME/article1
+  subtitle: Design choices, embeddings, feedback loop
 
 - title: Cloud-Native ETL Pipeline with Airflow and ClickHouse
   link: https://medium.com/@YOUR_MEDIUM_USERNAME/article2
+  subtitle: From raw files to fast analytics
 
-- title: Automating Data Reporting with Flask
+- title: From SQL to PDF: Automating Data Reporting with Flask
   link: https://medium.com/@YOUR_MEDIUM_USERNAME/article3
+  subtitle: Reproducible reporting stack

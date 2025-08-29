@@ -6,12 +6,12 @@
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href="{{ '/' | relative_url }}">MS</a>
+        <a class="brand" href="#about">MS</a>
         <nav class="nav">
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/projects' | relative_url }}">Projects</a>
-          <a href="{{ '/videos' | relative_url }}">Videos</a>
-          <a href="{{ '/articles' | relative_url }}">Articles</a>
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#videos">Videos</a>
+          <a href="#articles">Articles</a>
         </nav>
       </div>
     </header>
@@ -21,5 +21,17 @@
     <footer class="site-footer">
       <p>© {{ site.time | date: '%Y' }} {{ site.author }}</p>
     </footer>
+    <script>
+      // Smooth scroll for internal nav
+      document.querySelectorAll('a[href^="#"]').forEach(a => {
+        a.addEventListener('click', e => {
+          const href = a.getAttribute('href');
+          if (href.length > 1) {
+            e.preventDefault();
+            document.querySelector(href).scrollIntoView({ behavior: 'smooth' });
+          }
+        });
+      });
+    </script>
   </body>
 </html>
