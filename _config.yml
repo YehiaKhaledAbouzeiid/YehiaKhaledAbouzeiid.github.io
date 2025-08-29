@@ -1,5 +1,5 @@
 title: "Michael Shoemaker — Data Engineering"
-description: "Modern, production-like data engineering projects with concise walkthroughs."
+description: "Production-like data engineering builds, explained clearly."
 baseurl: ""
 url: ""
 markdown: kramdown
@@ -14,4 +14,4 @@ github_username: "YOUR_GITHUB_USERNAME"
 youtube_channel: "YOUR_YOUTUBE_CHANNEL_ID_OR_HANDLE"
 medium_username: "YOUR_MEDIUM_USERNAME"
 exclude:
-  - README.md
+  - "README.md"

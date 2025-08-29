@@ -1,14 +1,23 @@
-- title: YouTube Semantic Search
-  link: https://github.com/YOUR_GITHUB_USERNAME/youtube-semantic-search
-  description: Ask questions across a YouTube playlist; returns time-coded hits with RAG.
-  stack: OpenSearch · LLM · Streamlit · PostgreSQL · Docker
+- title: "YouTube Semantic Search"
+  link: "https://github.com/YOUR_GITHUB_USERNAME/youtube-semantic-search"
+  description: "Ask questions across a YouTube playlist; returns time-coded hits with RAG."
+  stack: "OpenSearch · LLM · Streamlit · PostgreSQL · Docker"
+  image: "/assets/images/project_youtube_search.jpg"
+  preview_gif: "/assets/images/project_youtube_search.gif"
+  screenshot: "/assets/images/project_youtube_search_full.png"
 
-- title: Airflow → MinIO → ClickHouse Pipeline
-  link: https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline
-  description: Orchestrated ETL: land Parquet to object storage, load into ClickHouse, transform.
-  stack: Airflow · Parquet · MinIO · ClickHouse · dbt
+- title: "Airflow → MinIO → ClickHouse Pipeline"
+  link: "https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline"
+  description: "Orchestrated ETL: land Parquet to object storage, load into ClickHouse, transform."
+  stack: "Airflow · Parquet · MinIO · ClickHouse · dbt"
+  image: "/assets/images/project_airflow_ckh.jpg"
+  preview_gif: "/assets/images/project_airflow_ckh.gif"
+  screenshot: "/assets/images/project_airflow_ckh_full.png"
 
-- title: Flask Reporting App
-  link: https://github.com/YOUR_GITHUB_USERNAME/flask-reporting-app
-  description: SQL to HTML → export PDF/CSV; clean separation of report types.
-  stack: Flask · SQLAlchemy · WeasyPrint · SQL Server
+- title: "Flask Reporting App"
+  link: "https://github.com/YOUR_GITHUB_USERNAME/flask-reporting-app"
+  description: "SQL→HTML→PDF/CSV; clean separation of report types."
+  stack: "Flask · SQLAlchemy · WeasyPrint · SQL Server"
+  image: "/assets/images/project_flask_reports.jpg"
+  preview_gif: "/assets/images/project_flask_reports.gif"
+  screenshot: "/assets/images/project_flask_reports_full.png"

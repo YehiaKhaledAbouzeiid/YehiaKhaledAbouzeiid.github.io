@@ -1,11 +1,24 @@
 - title: How to Install Tesseract OCR on Windows and use it with Python
   link: https://youtu.be/GMMZAddRxs8
   note: Quick walkthrough for setting up Tessaract OCR on Windows
+  image: "/assets/images/video_semantic_demo.jpg"
+  preview_gif: "/assets/images/video_semantic_demo.gif"
+  screenshot: "/assets/images/video_semantic_demo_full.png"
 
 - title: Removing Warning from Python 3.12+ for pip installs
   link: https://youtu.be/g2TDfWDgwkE
   note: Get rid of rule to not install packages system wide in current versions of Python
+  image: "/assets/images/video_airflow_walkthrough.jpg"
+  preview_gif: "/assets/images/video_airflow_walkthrough.gif"
+  screenshot: "/assets/images/video_airflow_walkthrough_full.png"
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
   note: Generating PDFs from SQL
+  image: "/assets/images/video_flask_showcase.jpg"
+  preview_gif: "/assets/images/video_flask_showcase.gif"
+  screenshot: "/assets/images/video_flask_showcase_full.png"
+
+
+
+

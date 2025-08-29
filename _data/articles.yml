@@ -1,11 +1,20 @@
-- title: Building a Semantic Search Engine with OpenSearch and LLMs
-  link: https://medium.com/@YOUR_MEDIUM_USERNAME/article1
-  subtitle: Design choices, embeddings, feedback loop
+- title: "Building a Semantic Search Engine with OpenSearch and LLMs"
+  link: "https://medium.com/@YOUR_MEDIUM_USERNAME/article1"
+  subtitle: "Design choices, embeddings, feedback loop"
+  image: "/assets/images/article_semantic_search.jpg"
+  preview_gif: "/assets/images/article_semantic_search.gif"
+  screenshot: "/assets/images/article_semantic_search_full.png"
 
-- title: Cloud-Native ETL Pipeline with Airflow and ClickHouse
-  link: https://medium.com/@YOUR_MEDIUM_USERNAME/article2
-  subtitle: From raw files to fast analytics
+- title: "Cloud-Native ETL Pipeline with Airflow and ClickHouse"
+  link: "https://medium.com/@YOUR_MEDIUM_USERNAME/article2"
+  subtitle: "From raw files to fast analytics"
+  image: "/assets/images/article_airflow_ckh.jpg"
+  preview_gif: "/assets/images/article_airflow_ckh.gif"
+  screenshot: "/assets/images/article_airflow_ckh_full.png"
 
-- title: From SQL to PDF: Automating Data Reporting with Flask
-  link: https://medium.com/@YOUR_MEDIUM_USERNAME/article3
-  subtitle: Reproducible reporting stack
+- title: "From SQL to PDF: Automating Data Reporting with Flask"
+  link: "https://medium.com/@YOUR_MEDIUM_USERNAME/article3"
+  subtitle: "Reproducible reporting stack"
+  image: "/assets/images/article_flask_reports.jpg"
+  preview_gif: "/assets/images/article_flask_reports.gif"
+  screenshot: "/assets/images/article_flask_reports_full.png"
