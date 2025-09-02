@@ -10,8 +10,8 @@ defaults:
     values:
       layout: default
 author: "Michael Shoemaker"
-github_username: "YOUR_GITHUB_USERNAME"
-youtube_channel: "YOUR_YOUTUBE_CHANNEL_ID_OR_HANDLE"
-medium_username: "YOUR_MEDIUM_USERNAME"
+github_username: "MichaelShoemaker"
+youtube_channel: "@dataslinger6379"
+medium_username: "dataslinger"
 exclude:
   - "README.md"
