@@ -7,10 +7,10 @@
 
 - title: Removing Warning from Python 3.12+ for pip installs
   link: https://youtu.be/g2TDfWDgwkE
-  note: Get rid of rule to not install packages system wide in current versions of Python
-  image: "/assets/images/video_airflow_walkthrough.jpg"
-  preview_gif: "/assets/images/video_airflow_walkthrough.gif"
-  screenshot: "/assets/images/video_airflow_walkthrough_full.png"
+  note: Get rid of rule to not install packages system wide in Python Version >=3.12
+  image: "/assets/images/PythonExternallyManagedError.png"
+  preview_gif: "/assets/images/PythonExternallyManagedError.png"
+  screenshot: "/assets/images/PythonExternallyManagedError.png"
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
