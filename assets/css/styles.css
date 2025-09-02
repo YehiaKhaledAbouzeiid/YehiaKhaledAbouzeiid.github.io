@@ -48,3 +48,17 @@ a { color: var(--accent); text-decoration: none; }
 .lb-backdrop { position:absolute; inset:0; background: rgba(0,0,0,.7); }
 .lb-img { position: relative; max-width: 90vw; max-height: 85vh; border-radius: 10px; }
 .lb-close { position:absolute; top: 20px; right: 20px; background: white; border: none; border-radius: 50%; width: 36px; height: 36px; font-size: 22px; cursor:pointer; }
+
+
+.about-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.profile-pic {
+  width: 200px;          /* adjust size */
+  height: 200px;
+  border-radius: 50%;    /* circle crop */
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
