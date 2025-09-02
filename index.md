@@ -3,18 +3,16 @@ title: "Home"
 ---
 <section id="about" class="section">
   <div class="about-container">
-    <h1>👋 Hi, I'm Michael Shoemaker</h1>
-    <img src="{{ '/assets/images/me.jpeg' | relative_url }}" 
-         alt="Michael Shoemaker" 
+    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
+         alt="Michael Shoemaker"
          class="profile-pic">
+
     <div class="about-text">
+      <h1>👋 Hi, I'm Michael Shoemaker</h1>
       <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
       <p><strong>Core skills:</strong> Airflow · Spark · dbt · SQL Server · BigQuery · OpenSearch · Docker · GCP · CI/CD</p>
     </div>
   </div>
-</section>
-  <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-  <p><strong>Core skills:</strong> Airflow · Spark · dbt · SQL Server · BigQuery · OpenSearch · Docker · GCP · CI/CD</p>
 </section>
 
 <section id="projects" class="section">
