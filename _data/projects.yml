@@ -5,7 +5,7 @@
   image: "/assets/images/PlayListGuideLLM.gif"
   preview_gif: "/assets/images/PlayListGuideLLM.gif"
   preview_gif: "/assets/images/PlayListGuideLLM.gif"
-  # screenshot: "/assets/images/PlaylistGuideLLM.gif"
+  screenshot: "/assets/images/PlayListGuideLLM.gif"
 
 - title: "Airflow → MinIO → ClickHouse Pipeline"
   link: "https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline"
