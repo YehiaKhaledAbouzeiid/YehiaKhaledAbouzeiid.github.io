@@ -4,7 +4,7 @@ title: "Home"
 <section id="about" class="section">
   <div class="about-container">
     <h1>👋 Hi, I'm Michael Shoemaker</h1>
-    <img src="{{ '/assets/images/michael.jpg' | relative_url }}" 
+    <img src="{{ '/assets/images/me.jpeg' | relative_url }}" 
          alt="Michael Shoemaker" 
          class="profile-pic">
     <div class="about-text">
