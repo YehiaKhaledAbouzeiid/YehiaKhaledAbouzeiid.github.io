@@ -50,15 +50,22 @@ a { color: var(--accent); text-decoration: none; }
 .lb-close { position:absolute; top: 20px; right: 20px; background: white; border: none; border-radius: 50%; width: 36px; height: 36px; font-size: 22px; cursor:pointer; }
 
 
-.about-header {
-  text-align: center;
-  margin-bottom: 1.5rem;
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;              /* space between photo and text */
+  max-width: 900px;       /* keep it from stretching too wide */
+  margin: 0 auto;         /* center the block */
 }
 
 .profile-pic {
-  width: 200px;          /* adjust size */
-  height: 200px;
-  border-radius: 50%;    /* circle crop */
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;     /* circle crop */
   object-fit: cover;
-  margin-bottom: 1rem;
+  flex-shrink: 0;         /* don’t let it shrink */
+}
+
+.about-text {
+  flex: 1;                /* text takes up remaining space */
 }
