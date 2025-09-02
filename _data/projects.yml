@@ -3,8 +3,7 @@
   description: "Ask questions across a YouTube playlist; returns time-coded hits with RAG."
   stack: "OpenSearch · LLM · Streamlit · PostgreSQL · Docker"
   image: "/assets/images/PlaylistGuideLLM.gif"
-  preview_gif: "/assets/images/PlaylistGuideLLM.gif"
-  screenshot: "/assets/images/PlaylistGuideLLM.gif"
+
 
 - title: "Airflow → MinIO → ClickHouse Pipeline"
   link: "https://github.com/YOUR_GITHUB_USERNAME/airflow-clickhouse-pipeline"
