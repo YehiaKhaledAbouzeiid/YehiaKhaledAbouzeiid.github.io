@@ -132,3 +132,10 @@ a { color: var(--accent); text-decoration: none; }
 .social-links a[href*="youtube"]:hover {
   color: #ff0000;      /* YouTube red on hover */
 }
+
+.social-links i {
+  font-size: 1.5rem;   /* same size as the link */
+  color: inherit;      /* match the link color */
+  display: inline-block;
+  line-height: 1;
+}
