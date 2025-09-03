@@ -69,3 +69,45 @@ a { color: var(--accent); text-decoration: none; }
 .about-text {
   flex: 1;                /* text takes up remaining space */
 }
+
+
+/* Below is to scroll the tiles so they don't stack*/
+.video-carousel {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.videos {
+  display: flex;
+  gap: 1rem; /* space between cards */
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* hide scrollbar in Firefox */
+}
+
+.videos::-webkit-scrollbar {
+  display: none; /* hide scrollbar in Chrome/Safari */
+}
+
+.video-card {
+  flex: 0 0 auto; /* prevent shrinking */
+  width: 250px; /* fixed card width */
+}
+
+
+.scroll-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.5);
+  border: none;
+  color: white;
+  font-size: 2rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.scroll-btn.left { left: 5px; }
+.scroll-btn.right { right: 5px; }
