@@ -54,10 +54,10 @@ title: "Home"
         
         <p class="social-links">
           <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank">
-            <i class="fab fa-linkedin"></i>
+            <i class="fa-brands fa-linkedin"></i>
           </a>
           <a href="https://www.youtube.com/@dataslinger6379" target="_blank">
-            <i class="fab fa-youtube"></i>
+            <i class="fa-brands fa-youtube"></i>
           </a>
         </p>
       </div>
