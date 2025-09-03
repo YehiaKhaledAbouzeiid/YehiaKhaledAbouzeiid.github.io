@@ -19,12 +19,12 @@
   preview_gif: "/assets/images/RaspberryPiMount.png"
   screenshot: "/assets/images/RaspberryPiMount.png"
 
-- title: Flask Reporting App Showcase
-  link: https://youtube.com/watch?v=zzzzzz
-  note: Generating PDFs from SQL
-  image: "/assets/images/video_flask_showcase.jpg"
-  preview_gif: "/assets/images/video_flask_showcase.gif"
-  screenshot: "/assets/images/video_flask_showcase_full.png"
+- title: Create a Dataflow Diagram with Draw.io
+  link: https://youtu.be/fBYY08Zp9LQ
+  note: People like shiny things. To make your project "pop", here is a quick walkthrough for how to create an animated dataflow diagram with draw.io
+  image: "/assets/images/DataFlowDiagram.png"
+  preview_gif: "/assets/images/DataFlowDiagram.png"
+  screenshot: "/assets/images/DataFlowDiagram.png"
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
