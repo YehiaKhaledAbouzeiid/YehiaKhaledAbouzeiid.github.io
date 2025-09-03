@@ -25,3 +25,10 @@
   image: "/assets/images/FlightData.jpg"
   preview_gif: "/assets/images/FlightData.jpg"
   screenshot: "/assets/images/FlightData.jpg"
+
+- title: "Setup Docker on Linux Mint 20.X"
+  link: "https://medium.com/@dataslinger/setting-up-docker-on-linux-mint-20-x-a27e8d1983e6"
+  subtitle: "Linux Mint is AWESOME. BUT it is also build on top of Ubuntu which can make installng things like Docker a bit tricky using the typical commands. Use this Article to get up and going quickly."
+  image: "/assets/images/MintDocker.png"
+  preview_gif: "/assets/images/MintDocker.png"
+  screenshot: "/assets/images/MintDocker.png"
