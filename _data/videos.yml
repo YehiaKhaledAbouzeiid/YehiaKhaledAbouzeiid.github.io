@@ -12,12 +12,12 @@
   preview_gif: "/assets/images/PythonExternallyManagedError.png"
   screenshot: "/assets/images/PythonExternallyManagedError.png"
 
-- title: Flask Reporting App Showcase
-  link: https://youtube.com/watch?v=zzzzzz
-  note: Generating PDFs from SQL
-  image: "/assets/images/video_flask_showcase.jpg"
-  preview_gif: "/assets/images/video_flask_showcase.gif"
-  screenshot: "/assets/images/video_flask_showcase_full.png"
+- title: Mounting an External Hard Drive in a Raspberry Pi
+  link: https://youtu.be/thXjZvKdmu8
+  note: This is fun and allows you to make a Raspberry Pi with HUGE storage
+  image: "/assets/images/RaspberryPiMount.png"
+  preview_gif: "/assets/images/RaspberryPiMount.png"
+  screenshot: "/assets/images/RaspberryPiMount.png"
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
