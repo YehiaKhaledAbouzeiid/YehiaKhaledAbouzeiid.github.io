@@ -51,7 +51,7 @@ title: "Home"
       <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
       <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
       <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
-      
+      <p>Test icon: <i class="fa-solid fa-star"></i></p>
     <p class="social-links">
       <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
         <!-- LinkedIn SVG -->
