@@ -18,3 +18,10 @@
   image: "/assets/images/ChicagoDataPortal.png"
   preview_gif: "/assets/images/ChicagoDataPortal.png"
   screenshot: "/assets/images/ChicagoDataPortal.png"
+
+- title: "Quick Setup of Flights Data to Learn SQL"
+  link: "https://medium.com/@dataslinger/quick-setup-of-flights-data-to-learn-sql-c1a89a49b0ec"
+  subtitle: "This article is a quick tutorial for how to setup and get going with the Kaggle 2015 Flight Delays and Cancellations Data."
+  image: "/assets/images/FlightData.jpg"
+  preview_gif: "/assets/images/FlightData.jpg"
+  screenshot: "/assets/images/FlightData.jpg"
