@@ -32,7 +32,7 @@ title: "Home"
       <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
 
       <p class="social-links">
-        <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank" aria-label="LinkedIn">
+        <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
           <i class="fa-brands fa-linkedin"></i>
         </a>
         <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
