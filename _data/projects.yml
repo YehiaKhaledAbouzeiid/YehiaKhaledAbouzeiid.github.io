@@ -22,3 +22,11 @@
   image: "/assets/images/TerraformDockerAirflow.png"
   preview_gif: "/assets/images/TerraformDockerAirflow.png"
   screenshot: "/assets/images/TerraformDockerAirflow.png"
+
+- title: "Daily Weather Capture into Big Query using dlt"
+  link: "https://github.com/MichaelShoemaker/weather_cloud_function_setup/tree/main?tab=readme-ov-file"
+  description: "Getting historic weather data costs money. Getting recent weather data is free. So why not capture it yourself and build up a dataset?"
+  stack: "GCP · Cloud Function · dlt · Python"
+  image: "/assets/images/dlt_weather_flow.gif"
+  preview_gif: "/assets/images/dlt_weather_flow.gif"
+  screenshot: "/assets/images/dlt_weather_flow.gif"

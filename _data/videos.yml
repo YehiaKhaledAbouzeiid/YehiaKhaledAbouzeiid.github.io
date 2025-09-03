@@ -26,12 +26,12 @@
   preview_gif: "/assets/images/DataFlowDiagram.png"
   screenshot: "/assets/images/DataFlowDiagram.png"
 
-- title: Flask Reporting App Showcase
-  link: https://youtube.com/watch?v=zzzzzz
-  note: Generating PDFs from SQL
-  image: "/assets/images/video_flask_showcase.jpg"
-  preview_gif: "/assets/images/video_flask_showcase.gif"
-  screenshot: "/assets/images/video_flask_showcase_full.png"
+- title: Capture Daily Weather with dlt and Big Query
+  link: https://youtu.be/nzUYsKlsHF4
+  note: Getting historic weather data costs money. Getting recent weather data is free. So why not capture it yourself and build up a dataset?
+  image: "/assets/images/WeatherCapture_dlt.png"
+  preview_gif: "/assets/images/WeatherCapture_dlt.png"
+  screenshot: "/assets/images/WeatherCapture_dlt.png"
 
 - title: Flask Reporting App Showcase
   link: https://youtube.com/watch?v=zzzzzz
