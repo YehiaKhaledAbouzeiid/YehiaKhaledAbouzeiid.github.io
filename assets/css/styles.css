@@ -111,3 +111,24 @@ a { color: var(--accent); text-decoration: none; }
 
 .scroll-btn.left { left: 5px; }
 .scroll-btn.right { right: 5px; }
+
+
+.social-links {
+  display: flex;
+  gap: 0.75rem;       /* space between icons */
+  margin-top: 0.75rem;
+}
+
+.social-links a {
+  color: inherit;      /* use current text color */
+  font-size: 1.5rem;   /* make icons larger */
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  color: #0a66c2;      /* LinkedIn blue on hover */
+}
+
+.social-links a[href*="youtube"]:hover {
+  color: #ff0000;      /* YouTube red on hover */
+}
