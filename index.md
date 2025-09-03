@@ -2,42 +2,21 @@
 title: "Home"
 ---
 
-<!-- Inline carousel styles (scoped classes so they don't fight your grid) -->
+<!-- Inline carousel-only styles (kept here so they don't clash with grid) -->
 <style>
   .carousel { position: relative; overflow: hidden; }
   .carousel-track {
     display: flex;
     gap: 1rem;
-    flex-wrap: nowrap;            /* keep in one row */
+    flex-wrap: nowrap;        /* keep in one row */
     overflow-x: auto;
     scroll-behavior: smooth;
     padding-bottom: .25rem;
-    -ms-overflow-style: none;     /* IE/Edge */
-    scrollbar-width: none;        /* Firefox */
+    -ms-overflow-style: none; /* IE/Edge */
+    scrollbar-width: none;    /* Firefox */
   }
   .carousel-track::-webkit-scrollbar { display: none; } /* WebKit */
-
-  /* Make cards behave as slides */
-  .carousel .card { flex: 0 0 300px; } /* adjust width to taste */
-
-  /* Arrow buttons */
-  .scroll-btn {
-    position: absolute;
-    top: 40%;
-    transform: translateY(-50%);
-    background: rgba(0,0,0,.45);
-    color: #fff;
-    border: 0;
-    font-size: 2rem;
-    line-height: 1;
-    padding: .25rem .6rem;
-    border-radius: .5rem;
-    cursor: pointer;
-    z-index: 2;
-  }
-  .scroll-btn.left { left: .25rem; }
-  .scroll-btn.right { right: .25rem; }
-  .scroll-btn[disabled] { opacity: .35; cursor: default; }
+  .carousel .card { flex: 0 0 300px; } /* slide width */
 </style>
 
 <section id="about" class="section">
@@ -51,15 +30,15 @@ title: "Home"
       <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
       <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
       <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
-      
-    <p class="social-links">
-      <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank">
-        <i class="fa-brands fa-linkedin"></i>
-      </a>
-      <a href="https://www.youtube.com/@dataslinger6379" target="_blank">
-        <i class="fa-brands fa-youtube"></i>
-      </a>
-    </p>
+
+      <p class="social-links">
+        <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank" aria-label="LinkedIn">
+          <i class="fa-brands fa-linkedin"></i>
+        </a>
+        <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
+          <i class="fa-brands fa-youtube"></i>
+        </a>
+      </p>
     </div>
   </div>
 </section>
