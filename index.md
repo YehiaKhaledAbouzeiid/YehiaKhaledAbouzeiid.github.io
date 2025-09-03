@@ -40,22 +40,29 @@ title: "Home"
   .scroll-btn[disabled] { opacity: .35; cursor: default; }
 </style>
 
-<div class="about-text">
-  <h1>Hello World! I'm Michael Shoemaker</h1>
-  <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-  <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-  <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
-  
-  <p class="social-links">
-    <a href="https://www.linkedin.com/in/michaelshoemaker1/" target="_blank">
-      <i class="fab fa-linkedin"></i>
-    </a>
-    <a href="https://www.youtube.com/@dataslinger6379" target="_blank">
-      <i class="fab fa-youtube"></i>
-    </a>
-  </p>
-</div>
+<section id="about" class="section">
+  <div class="about-container">
+    <img src="{{ '/assets/images/me.jpeg' | relative_url }}"
+         alt="Michael Shoemaker"
+         class="profile-pic">
 
+      <div class="about-text">
+        <h1>Hello World! I'm Michael Shoemaker</h1>
+        <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
+        <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
+        <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+        
+        <p class="social-links">
+          <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="https://www.youtube.com/@dataslinger6379" target="_blank">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </p>
+      </div>
+  </div>
+</section>
 
 <!-- ===================== Projects ===================== -->
 <section id="projects" class="section">
