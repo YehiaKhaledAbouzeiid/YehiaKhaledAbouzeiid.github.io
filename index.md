@@ -46,21 +46,28 @@ title: "Home"
          alt="Michael Shoemaker"
          class="profile-pic">
 
-      <div class="about-text">
-        <h1>Hello World! I'm Michael Shoemaker</h1>
-        <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
-        <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-        <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
-        
-        <p class="social-links">
-          <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank">
-            <i class="fa-brands fa-linkedin"></i>
-          </a>
-          <a href="https://www.youtube.com/@dataslinger6379" target="_blank">
-            <i class="fa-brands fa-youtube"></i>
-          </a>
-        </p>
-      </div>
+    <div class="about-text">
+      <h1>Hello World! I'm Michael Shoemaker</h1>
+      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
+      <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
+      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+      
+    <p class="social-links">
+      <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank" aria-label="LinkedIn">
+        <!-- LinkedIn SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M4.98 3.5A2.5 2.5 0 1 1 5 8.5a2.5 2.5 0 0 1-.02-5zm.02 6.5H2v11h3V10zM8 10H5v11h3v-5.6c0-2.98 3.5-3.22 3.5 0V21H15v-6.52c0-5.38-5.83-5.18-7-2.54V10z"/>
+        </svg>
+      </a>
+
+      <a href="https://www.youtube.com/@dataslinger6379" target="_blank" aria-label="YouTube">
+        <!-- YouTube SVG -->
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1c.5-1.9.5-5.8.5-5.8s0-3.9-.5-5.8zM9.6 15.5v-7l6.2 3.5-6.2 3.5z"/>
+        </svg>
+      </a>
+    </p>
+    </div>
   </div>
 </section>
 
