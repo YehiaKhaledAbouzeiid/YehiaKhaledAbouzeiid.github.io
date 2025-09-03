@@ -139,3 +139,13 @@ a { color: var(--accent); text-decoration: none; }
   display: inline-block;
   line-height: 1;
 }
+
+/* Brand colors (default) */
+.social-links a[href*="linkedin"] i { color: #0a66c2; }
+.social-links a[href*="youtube"]  i { color: #ff0000; }
+
+/* Slight brighten on hover */
+.social-links a:hover i { opacity: .85; }
+
+/* (optional) better hit area + alignment */
+.social-links a { display:inline-flex; align-items:center; justify-content:center; width:32px; height:32px; }
