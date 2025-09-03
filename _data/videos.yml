@@ -33,12 +33,12 @@
   preview_gif: "/assets/images/WeatherCapture_dlt.png"
   screenshot: "/assets/images/WeatherCapture_dlt.png"
 
-- title: Flask Reporting App Showcase
-  link: https://youtube.com/watch?v=zzzzzz
-  note: Generating PDFs from SQL
-  image: "/assets/images/video_flask_showcase.jpg"
-  preview_gif: "/assets/images/video_flask_showcase.gif"
-  screenshot: "/assets/images/video_flask_showcase_full.png"
+- title: Pulling Chicago Crime Data into Duckdb with dlt
+  link: https://youtu.be/LfNuNtgsV0s
+  note: dlt is a great way to quickly pull data from a Socrata API. Here is a quick walkthrough of how to do just that using the Chicago Crime Dataset
+  image: "/assets/images/ChicagoCrimedlt.png"
+  preview_gif: "/assets/images/ChicagoCrimedlt.png"
+  screenshot: "/assets/images/ChicagoCrimedlt.png"
 
 
 
