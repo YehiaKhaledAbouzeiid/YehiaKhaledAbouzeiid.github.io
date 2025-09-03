@@ -53,7 +53,7 @@ title: "Home"
       <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
       
     <p class="social-links">
-      <a href="https://www.linkedin.com/in/michaelshoemaker-1" target="_blank" aria-label="LinkedIn">
+      <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
         <!-- LinkedIn SVG -->
         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
           <path d="M4.98 3.5A2.5 2.5 0 1 1 5 8.5a2.5 2.5 0 0 1-.02-5zm.02 6.5H2v11h3V10zM8 10H5v11h3v-5.6c0-2.98 3.5-3.22 3.5 0V21H15v-6.52c0-5.38-5.83-5.18-7-2.54V10z"/>
