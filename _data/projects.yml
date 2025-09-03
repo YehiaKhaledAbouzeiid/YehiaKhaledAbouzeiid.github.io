@@ -11,9 +11,9 @@
   link: "https://github.com/MichaelShoemaker/shoemaker-de-zoomcamp-final-project"
   description: "Data Enginnering Zoomcamp Final Project 2022"
   stack: "Big Query · Airflow ·  dbt"
-  image: "/assets/images/DivvyDataDiagram.jpg"
-  preview_gif: "/assets/images/DivvyDataDiagram.jpg"
-  screenshot: "/assets/images/DivvyDataDiagram.jpg"
+  image: "/assets/images/DivvyDataDiagram.jpeg"
+  preview_gif: "/assets/images/DivvyDataDiagram.jpeg"
+  screenshot: "/assets/images/DivvyDataDiagram.jpeg"
 
 - title: "Airflow in Docker on GCP setup with Terraform"
   link: "https://github.com/MichaelShoemaker/Terraform-Docker-Airflow-GCP"
