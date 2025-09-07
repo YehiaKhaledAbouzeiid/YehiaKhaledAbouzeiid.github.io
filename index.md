@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="intro">
-  <img src="/assets/images/me.jpg" alt="Yehia Khaled" style="width:120px;border-radius:50%;margin-right:16px;" />
+  <img src="/assets/images/me.png" alt="Yehia Khaled" style="width:120px;border-radius:50%;margin-right:16px;" />
   <div>
     <h1>Hello Data Lovers! I'm <span class="highlight">Yehia Khaled</span></h1>
 
