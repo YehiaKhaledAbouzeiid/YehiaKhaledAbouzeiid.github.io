@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<p style="font-size:18px; line-height:1.6; margin-bottom:24px;">
+Database Administrator with <strong>2+ years of Data experience</strong> with expertise in <strong>Microsoft Azure, SQL Server, Oracle, SSIS, SSMA, ETL, Tableau, and AI/ML tools</strong>.  
+Proven ability to manage and optimize critical banking databases with a focus on <strong>high availability, disaster recovery, and performance tuning</strong>.  
+Delivered measurable business value — reducing costs, improving system performance, and impacting thousands of users across financial services and Data/AI projects.
+</p>
+
 <div class="intro">
   <img src="/assets/images/avatar.png" alt="Yehia Khaled" style="width:120px;border-radius:50%;margin-right:16px;" />
   <div>
