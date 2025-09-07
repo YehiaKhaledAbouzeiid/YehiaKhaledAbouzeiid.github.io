@@ -5,43 +5,43 @@ title: Home
 
 <div class="intro">
   <img src="/assets/images/me.png" alt="Yehia Khaled" style="width:120px;border-radius:50%;margin-right:16px;" />
-  <div>
-    <h1>Hello Data Lovers! I'm <span class="highlight">Yehia Khaled</span></h1>
+<div>
+  <h1>Hello Data Lovers! I'm <span class="highlight">Yehia Khaled</span></h1>
 
-    <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">Database Administrator</strong> with 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">2+ years of hands-on Data experience</strong>, specializing in 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">Microsoft SQL Server</strong> and 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">Oracle Database</strong>.
-    </p>
+  <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
+    <strong style="color:#fff;">Database Administrator</strong> with 
+    <strong style="color:#fff;">2+ years of hands-on Data experience</strong>, specializing in 
+    <strong style="color:#fff;">Microsoft SQL Server</strong> and 
+    <strong style="color:#fff;">Oracle Database</strong>.
+  </p>
 
-    <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
-      Proficient in managing, optimizing, and securing enterprise-grade databases with a focus on 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">high availability</strong>, 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">disaster recovery</strong>, and 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">performance tuning</strong>.
-    </p>
+  <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
+    Proficient in managing, optimizing, and securing enterprise-grade databases with a focus on 
+    <strong style="color:#fff;">high availability</strong>, 
+    <strong style="color:#fff;">disaster recovery</strong>, and 
+    <strong style="color:#fff;">performance tuning</strong>.
+  </p>
 
-    <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
-      Additional knowledge across 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">MySQL, PostgreSQL, MongoDB, and Sybase ASE</strong>, with proven experience in 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">Tableau Server administration</strong>.
-    </p>
+  <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
+    Additional knowledge across 
+    <strong style="color:#fff;">MySQL, PostgreSQL, MongoDB, and Sybase ASE</strong>, with proven experience in 
+    <strong style="color:#fff;">Tableau Server administration</strong>.
+  </p>
 
-    <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
-      Delivered measurable business value — reducing costs, improving system performance, and enabling thousands of users across 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">financial services</strong> and 
-      <strong style="color:#000; text-shadow:1px 1px 2px #888;">Data/AI projects</strong>.
-    </p>
+  <p style="font-size:18px; line-height:1.6; margin:16px 0; color:#e0e0e0;">
+    Delivered measurable business value — reducing costs, improving system performance, and enabling thousands of users across 
+    <strong style="color:#fff;">financial services</strong> and 
+    <strong style="color:#fff;">Data/AI projects</strong>.
+  </p>
 
-    <p><strong>Core skills:</strong> SQL Server · Oracle · MySQL · PostgreSQL · MongoDB · Sybase ASE · Airflow · dbt · Kafka · Azure · Tableau Server · Power BI</p>
+  <p><strong>Core skills:</strong> SQL Server · Oracle · MySQL · PostgreSQL · MongoDB · Sybase ASE · Airflow · dbt · Kafka · Azure · Tableau Server · Power BI</p>
 
-    <p>
-      <a href="https://www.linkedin.com/in/yehia-khaled-abouzeid-005b8416a/" target="_blank">LinkedIn</a> ·
-      <a href="https://github.com/YehiaKhaledAbouzeiid" target="_blank">GitHub</a>
-    </p>
-  </div>
+  <p>
+    <a href="https://www.linkedin.com/in/yehia-khaled-abouzeid-005b8416a/" target="_blank">LinkedIn</a> ·
+    <a href="https://github.com/YehiaKhaledAbouzeiid" target="_blank">GitHub</a>
+  </p>
 </div>
+
 
 
 
