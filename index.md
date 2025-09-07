@@ -3,31 +3,6 @@ layout: default
 title: Home
 ---
 
-<section id="projects" style="margin-top:48px;">
-  <h2>🚀 Projects</h2>
-
-  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin-top:16px;">
-    {% for p in site.data.projects %}
-      <article style="background:#111827;border:1px solid #1f2937;border-radius:16px;overflow:hidden;">
-        <div style="aspect-ratio:16/9;overflow:hidden;">
-          <img src="{{ p.preview_gif | default: p.image }}" alt="{{ p.title }}" style="width:100%;height:100%;object-fit:cover;">
-        </div>
-        <div style="padding:16px;">
-          <h3 style="margin:0 0 6px 0;">{{ p.title }}</h3>
-          <p style="margin:0 0 8px 0;color:#cbd5e1;">{{ p.description }}</p>
-          {% if p.stack %}
-            <p style="margin:0 0 12px 0;font-size:0.9rem;color:#94a3b8;">{{ p.stack }}</p>
-          {% endif %}
-          <div>
-            <a href="{{ p.link }}" target="_blank" style="text-decoration:none;background:#2563eb;color:white;padding:8px 12px;border-radius:10px;">Open</a>
-          </div>
-        </div>
-      </article>
-    {% endfor %}
-  </div>
-</section>
-
-
 <div class="intro">
   <img src="/assets/images/avatar.png" alt="Yehia Khaled" style="width:120px;border-radius:50%;margin-right:16px;" />
   <div>
@@ -59,3 +34,27 @@ title: Home
     </p>
   </div>
 </div>
+
+<section id="projects" style="margin-top:48px;">
+  <h2>🚀 Projects</h2>
+
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px;margin-top:16px;">
+    {% for p in site.data.projects %}
+      <article style="background:#111827;border:1px solid #1f2937;border-radius:16px;overflow:hidden;">
+        <div style="aspect-ratio:16/9;overflow:hidden;">
+          <img src="{{ p.preview_gif | default: p.image }}" alt="{{ p.title }}" style="width:100%;height:100%;object-fit:cover;">
+        </div>
+        <div style="padding:16px;">
+          <h3 style="margin:0 0 6px 0;">{{ p.title }}</h3>
+          <p style="margin:0 0 8px 0;color:#cbd5e1;">{{ p.description }}</p>
+          {% if p.stack %}
+            <p style="margin:0 0 12px 0;font-size:0.9rem;color:#94a3b8;">{{ p.stack }}</p>
+          {% endif %}
+          <div>
+            <a href="{{ p.link }}" target="_blank" style="text-decoration:none;background:#2563eb;color:white;padding:8px 12px;border-radius:10px;">Open</a>
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
