@@ -1,17 +1,5 @@
-title: "Michael Shoemaker — Data Engineering"
-description: "Production-like data engineering builds, explained clearly."
-baseurl: ""
-url: ""
-markdown: kramdown
-theme: null
-plugins: []
-defaults:
-  - scope: { path: "" }
-    values:
-      layout: default
-author: "Michael Shoemaker"
-github_username: "MichaelShoemaker"
-youtube_channel: "@dataslinger6379"
-medium_username: "dataslinger"
-exclude:
-  - "README.md"
+title: "Yehia Khaled — Data Engineering Portfolio"
+name: "Yehia Khaled"
+description: "DBA → Data Engineering & Cloud Platforms"
+github_username: "YehiaKhaledAbouzeiid"
+linkedin_username: "yehiakhaledabouzeiid"
